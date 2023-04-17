@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'nunito', Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.menu-bg{
+    width: 100%;
+    background-color: #EFEFEF;
+      
+}
+body{
+    background-color: #EFEFEF;
+}
+
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    height: 80px;
+    font-weight: 600;
+    background-color:#EFEFEF ;
+    
+    
+}
+
+span{
+    color: rgb(34, 98, 209);
+    font-weight: 800;
+}
+.menu-logo a {
+    color: rgb(34, 98, 209);
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.menu-nav ul{
+    display: flex;
+    list-style: none;
+}
+
+.menu-nav a {
+    color: rgb(24, 24, 24);
+    margin-left: 30px;
+    font-weight: 700;
+}
+
+.menu-entrar a{
+    margin-left: 30px;
+}
+
+#entrar{
+    color: rgb(34, 98, 209);
+}
+
+#criar{
+    color: rgb(254, 254, 254);
+    background-color:  rgb(34, 98, 209);
+    padding: 8px 15px 8px 15px;
+    border-radius: 2px;
+    
+}
+
+/*main*/
+
+.section-sobre{
+    padding-top: 80px;
+     
+    
+    
+}
+
+.div-sobre{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center
+    
+}
+
+.sobre-text-side{
+    width: 500px ;
+    
+    
+}
+
+.sobre-text-side h1{
+    font-size: 50px;
+    line-height: 55px;
+}
+
+.sobre-text-side p{
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 20px;
+    width: 590px;
+}
+.list-sobre{
+    display: flex;
+    align-items: center;
+
+}
+
+.list-sobre img{
+    height: 20px;
+}
+
+.side-b{
+    margin-top: 15px;
+    
+}
+
+
+.list{
+    display: flex; 
+    align-items: baseline
+
+}
+
+.list-sobre img{
+    max-width: 20px;
+}
+
+.list p{
+    font-size: 16px;
+    margin-left: 10px;   
+}
+.button-side{
+    width: 400px;
+    margin-top: 40px;
+    display: flex;
+    
+}
+
+.button-side img{
+    max-width: 25px;
+    margin-left: 30px;
+}
+
+.button-side button{
+    background-color:  rgb(34, 98, 209);
+    color: rgb(254, 254, 254);
+    border: none;
+    padding: 8px 15px 8px 15px;
+    border-radius: 2px;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.image-side img{
+    position: relative;
+    bottom: 70px;
+    width: 500px;
+    padding-left: 40px;
+    
+}
+

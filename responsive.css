@@ -1,0 +1,287 @@
+@media screen and (max-width: 961px){
+
+    /* header*/
+
+    .menu-bg{
+        margin-top: 20px;
+        
+    }
+    
+    
+    .menu{
+      width: 300px;
+      
+      
+    }
+
+    .menu-nav{
+        margin-top: 20px;
+    }
+
+    .menu-entrar{
+        margin-top: 25px;
+    }
+
+    .section-sobre{
+        margin-top: 70px;
+    }
+
+    
+}
+
+
+
+
+@media screen and (max-width: 961px){
+
+    /* body*/
+
+    .section-sobre{
+        padding-top: 30px;
+       
+         
+        
+        
+    }
+    
+    .div-sobre{
+        width: 100%;
+        margin: 0 auto;
+        display: grid;
+        justify-content: center;
+        
+        
+        
+    }
+    
+    .sobre-text-side{
+        width: 600px ;
+        
+        
+    }
+    
+    .sobre-text-side h1{
+        font-size: 65px;
+        line-height: 75px;
+        text-align: center;
+        
+
+    }
+    
+    .sobre-text-side p{
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: 20px;
+        width: 590px;
+        text-align: center;
+    }
+    .list-sobre{
+        display: flex;
+        align-items: center;
+        
+    }
+    
+    .list-sobre img{
+        height: 20px;
+    }
+    
+    .side-b{
+        width: 350px;
+        padding-top: 15px;
+        
+        margin: 0 auto;
+        
+        
+
+        
+    }
+    
+    
+    .list{
+        display: flex; 
+        align-items: center;
+        justify-content: start;
+        
+    
+    }
+    
+    .list-sobre img{
+        max-width: 20px;
+    }
+    
+    .list p{
+        font-size: 16px;
+        margin-left: 1px;   
+    }
+    .button-side{
+        width: 400px;
+        padding-top: 40px;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center
+        
+        
+    }
+    
+    .button-side img{
+        max-width: 25px;
+        margin-left: 30px;
+    }
+    
+    .button-side button{
+        background-color:  rgb(34, 98, 209);
+        color: rgb(254, 254, 254);
+        border: none;
+        padding: 8px 15px 8px 15px;
+        border-radius: 2px;
+        font-size: 16px;
+        font-weight: 600;
+        
+    }
+    .image-side{
+        margin: 0 auto;
+    }
+    
+    .image-side img{
+        
+        position: relative;
+        bottom: 0px;
+        width: 500px;
+        padding-left: 40px;
+        
+        
+    }
+
+    
+    
+    
+
+
+}
+
+@media screen and (max-width: 616px){
+
+    .section-sobre{
+        padding-top: 10px;
+       
+         
+        
+        
+    }
+    
+    .div-sobre{
+        width: 100%;
+        margin: 0 auto;
+        display: grid;
+        justify-content: center;
+        
+        
+        
+    }
+    
+    .sobre-text-side{
+        width: 400px;
+        
+        
+    }
+    
+    .sobre-text-side h1{
+        font-size: 40px;
+        line-height: 50px;
+        text-align: center;
+        
+
+    }
+    
+    .sobre-text-side p{
+        font-size: 17px;
+        line-height: 30px;
+        padding-top: 30px;
+        margin: 0 auto;
+        width: 420px;
+        
+        
+    }
+    .list-sobre{
+        display: flex;
+        align-items: center;
+        
+    }
+    
+    .list-sobre img{
+        height: 20px;
+    }
+    
+    .side-b{
+        width: 350px;
+        padding-top: 15px; 
+        margin: 0 auto;
+        
+        
+
+        
+    }
+    
+    
+    .list{
+        display: flex; 
+        align-items: center;
+        justify-content: start;
+        
+    
+    }
+    
+    .list-sobre img{
+        max-width: 20px;
+    }
+    
+    .list p{
+        font-size: 16px;
+        margin-left: 1px;   
+    }
+    .button-side{
+        width: 200px;
+        padding-top: 40px;
+        display: flex;
+        margin: 0 auto;
+        justify-content: center
+        
+        
+    }
+    
+    .button-side img{
+        max-width: 25px;
+        margin-left: 30px;
+        display: none;
+    }
+    
+    .button-side button{
+        background-color:  rgb(34, 98, 209);
+        color: rgb(254, 254, 254);
+        border: none;
+        padding: 8px 15px 8px 15px;
+        border-radius: 2px;
+        font-size: 16px;
+        font-weight: 600;
+        
+    }
+    .image-side{
+        margin: 0 auto;
+    }
+    
+    .image-side img{
+        
+        position: relative;
+        bottom: 0px;
+        width: 400px;
+        padding-top: 30px;
+        
+        
+    }
+
+
+               
+
+
+
+}

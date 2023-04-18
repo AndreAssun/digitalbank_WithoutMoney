@@ -72,6 +72,7 @@ span{
 
 .section-sobre{
     padding-top: 80px;
+    
      
     
     
@@ -162,4 +163,75 @@ span{
     padding-left: 40px;
     
 }
+
+
+/*main - abra sua conta */
+
+.section-conta{
+    padding-top: 60px;
+    background-color: #ffffff;
+    
+     
+    
+    
+}
+
+.div-conta{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+    
+}
+
+.conta-text-side{
+    width: 550px ;
+    padding-top: 80px;
+
+}
+
+.conta-text-side h1{
+    font-size: 30px;
+   
+}
+.conta-text-side p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+.image-side-conta img{
+    max-width: 350px;
+    margin-right: 100px;
+    
+}
+
+.list-conta{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.list-conta img{
+    max-width: 40px;
+    margin-right: 25px;
+}
+
+.list-conta-itens h2{
+    font-size: 20px;
+
+}
+
+.list-conta-itens h3{
+
+    font-size:15px;
+    font-weight: 400;
+
+}
+
+
+
 

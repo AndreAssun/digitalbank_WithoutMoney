@@ -52,6 +52,12 @@ span{
     font-weight: 700;
 }
 
+.menu-nav a:hover{
+    color: rgb(34, 98, 209);
+    transition: 0,5s;
+}
+    
+
 .menu-entrar a{
     margin-left: 30px;
 }
@@ -79,10 +85,10 @@ span{
 }
 
 .div-sobre{
-    width: 100%;
+    width: 60%;
     margin: 0 auto;
     display: flex;
-    justify-content: center
+    justify-content: space-around;
     
 }
 
@@ -109,9 +115,6 @@ span{
 
 }
 
-.list-sobre img{
-    height: 20px;
-}
 
 .side-b{
     margin-top: 15px;
@@ -137,6 +140,7 @@ span{
     width: 400px;
     margin-top: 40px;
     display: flex;
+    align-items: center;
     
 }
 
@@ -167,6 +171,8 @@ span{
 }
 
 
+
+
 /*main - abra sua conta */
 
 .section-conta{
@@ -180,13 +186,10 @@ span{
 }
 
 .div-conta{
-    width: 1200px;
+    width: 1000px;
     margin: 0 auto;
     display: flex;
-    justify-content: center;
-    
-    
-    
+    justify-content:space-between;
     
     
 }
@@ -283,7 +286,70 @@ span{
   }
 
 
-  /*main - preço */
+  /*main - abra sua conta */
+
+.section-cartao{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #EFEFEF
+    
+     
+    
+    
+}
+
+.div-cartao{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-between;
+    
+    
+}
+
+.cartao-text-cartao{
+    max-width: 550px ;
+    padding-top: 80px;
+
+}
+
+.cartao-text-side h1{
+    font-size: 30px;
+   
+}
+.cartao-text-side p{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+
+.image-side-cartao img{
+    max-width: 350px;
+    margin-right: 100px;
+    
+}
+
+.list-cartao{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+}
+.list-cartao img{
+    max-width: 40px;
+    margin-right: 25px;
+}
+
+.list-cartao-itens h2{
+    font-size: 20px;
+
+}
+
+.list-cartao-itens h3{
+
+    font-size:15px;
+    font-weight: 400;
+
+}
 
 
 

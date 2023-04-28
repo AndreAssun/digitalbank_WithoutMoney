@@ -499,6 +499,7 @@
     .menu-nav a {
         color: rgb(24, 24, 24);
         padding-left: 15px;
+        
     }
 
     .section-sobre{
@@ -568,7 +569,7 @@
         flex-wrap: wrap;
         align-items: center;
         justify-content: center;
-        margin-top: 30px;
+        margin-top: 6px;
     }
     
     
@@ -791,5 +792,38 @@
                
 
 
+
+}
+
+@media screen and (max-width: 460px){
+
+    .sobre-text-side h1 {
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+    
+    .sobre-text-side{
+        width: 295px
+    }
+
+    .sobre-text-side p{
+            width: 295px
+    }
+
+    .list{
+        flex-direction: column;
+        margin-top: 6px;
+
+    }
+
+    .list p {
+        font-size: 15px;
+
+    }
+
+
+
+               
 
 }
